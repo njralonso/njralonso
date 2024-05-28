@@ -1,16 +1,35 @@
-### Hi there 👋
+# ¡Saludos, aventurero digital! 💻
 
-<!--
-**njralonso/njralonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+const perfil = {
+    conocimientosFrontEnd: [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery",
+        "TypeScript",
+        "React",
+        "React Native"
+    ],
+    conocimientosBackend: [
+        "PHP",
+        "Laravel"
+    ]
+};
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre mí:
+
+Soy un apasionado desarrollador con un enfoque en la creación de experiencias web y móviles modernas.
+Mi objetivo es escribir código limpio y eficiente, mientras aprendo y aplico las mejores prácticas de desarrollo.
+Me motiva la innovación y la mejora continua, siempre estoy buscando nuevas formas de mejorar mis habilidades y conocimientos.
+
+Soy partidario de que no hay que reinventar la rueda, así que si algo funciona:
+> "Copia lo bueno, busca lo malo y solucionalo."
+
+### Contacto:
+
+- [LinkedIn](https://www.linkedin.com/in/jonatan-rodriguez-alonso-7224ba2a7)
+- [Correo Electrónico](mailto:njralonso@gmail.com)
