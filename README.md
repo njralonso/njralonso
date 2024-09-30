@@ -6,10 +6,10 @@ const perfil = {
         "HTML",
         "CSS",
         "JavaScript",
-        "jQuery",
         "TypeScript",
         "React",
         "React Native"
+        "jQuery",
     ],
     conocimientosBackend: [
         "PHP",
