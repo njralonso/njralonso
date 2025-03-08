@@ -8,12 +8,25 @@ const perfil = {
         "JavaScript",
         "TypeScript",
         "React",
-        "React Native"
+        "Astro",
         "jQuery",
+        "TailwindCSS",
+        "Bootstrap",
+        "Sass"
+    ],
+    conocimientosMobile: [
+        "React Native",
+        "Expo",
+        "Google Play Store",
+        "Google Play Console"
     ],
     conocimientosBackend: [
         "PHP",
-        "Laravel"
+        "Laravel",
+        "Mysql",
+        "NodeJS",
+        "MongoDB",
+        "Express"
     ]
 };
 ```
@@ -33,3 +46,4 @@ Soy partidario de que no hay que reinventar la rueda, así que si algo funciona:
 
 - [LinkedIn](https://www.linkedin.com/in/jonatan-rodriguez-alonso-7224ba2a7)
 - [Correo Electrónico](mailto:njralonso@gmail.com)
+- [Portfolio](https://www.njralonso.dev)
